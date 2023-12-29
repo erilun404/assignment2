@@ -2,7 +2,7 @@ const gamePlay =
 {
     prologue: 
 `Prologue: 
-Sweden around 1920th.You and your friends Anna, Kalle and Johanna are invited to the Nordic Museum to listen to what has been found from an excavation of an old grave.
+Sweden around 1920th.You and your friends Anna, Kalle and Jonna are invited to the Nordic Museum to listen to what has been found from an excavation of an old grave.
 You are all interested in archeology but you are also interested in mystical and occult things! And has previously been involved in solving various occult scenarios, with great luck!`,
     prologueTwo:
 `While there, you learn that they have found gold and a box with some strange occult symbols of a trident! Amazing! Found here in a grave in Sweden, incredible! 
@@ -36,7 +36,7 @@ Once inside, you split up to start looking for Elise.`,
     failGame:
 `You failed the mission!`,
     sanityGoDown: 
-`You failed the mission what you seen made your sanity go down, what you seen took a toll on you, and you end up in hospital! Will you ever recover again?`,
+`You failed the mission! What you seen made your sanity go down, it took a toll on you. You end up in hospital! Will you ever recover again?`,
     tribute: 
 `Thanks for visit the game! I would like to make a tribute to my fellow roleplaying group and the session we played, those are the inspiration of this game!`
 }
@@ -52,7 +52,7 @@ const choiceOfWay =
 -What do I do?
 -Just drive them away, they won't know anything about her and what we're doing here! You sneak back to the garage and out to the road to meet the others`,
     failWindow: 
-`Anna and Johanna seem to have failed to enter the house. You move back to the garage and out to the road. You meet everyone outside.`,
+`Anna and Jonna seem to have failed to enter the house. You move back to the garage and out to the road. You meet everyone outside.`,
     goBasement: 
 `You go down to the basement. When you go down, it's dark and you smell seaweed and water. 
 You recognize the smell, it's the same you smelled in the hospital and from the rooms where people were screaming! 
